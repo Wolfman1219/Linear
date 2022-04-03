@@ -1,0 +1,2 @@
+# Linear
+Chiziqli dasturlar uchun
